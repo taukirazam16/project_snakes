@@ -32,6 +32,7 @@ void setup()
     score=0;
 }
 
+
 void draw()
 {
     // Resetting the screen
