@@ -1,13 +1,12 @@
 # project_snakes
 Tasks completed:
-1. Initial snake built
+1. Initial snake build
 2. Food coordinates and randomization
 3. Boundary check
 4. Collision
-5. One of two gameover condtions 
+5. Gameover condtions
 6. Second snake
-
-Tasks remaining:
-1. Round implementation
-2. UI
-3. Info and score management 
+7. UI
+8. Info and score management 
+9. Round implementation
+10. Verdict UI
